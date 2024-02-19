@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=tetgever
+comment1.params=
+comment1.target=void\ main()
+comment2.params=yearsLived
+comment2.target=java.lang.String\ drinkage(int)
+comment3.params=str
+comment3.target=int[]\ Birthdate(java.lang.String)
+comment4.params=str
+comment4.target=java.lang.String\ Place(java.lang.String)
+comment5.params=str
+comment5.target=java.lang.String\ Gender(java.lang.String)
+numComments=6
